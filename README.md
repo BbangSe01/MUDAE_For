@@ -1,6 +1,6 @@
 # MUDAE_For
 
-### 🍀 프로젝트 소개
+### 🍀 Project Overview
 https://www.notion.so/MODAE_For-20235f530e2580289aaceef9dfa83589
 <br><br>
 
